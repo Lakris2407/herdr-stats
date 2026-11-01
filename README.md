@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This mod moved to [Lakris2407/herdr-mods](https://github.com/Lakris2407/herdr-mods/tree/main/stats).** This repo is archived; new versions only ship there.
+
 # Your stats in Herdr
 
 A side panel for the [Herdr](https://herdr.dev) desktop app with your own delivery numbers across
